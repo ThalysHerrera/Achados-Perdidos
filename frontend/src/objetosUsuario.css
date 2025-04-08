@@ -1,0 +1,40 @@
+.objetos-usuario-container {
+    padding: 20px;
+    font-family: Arial, sans-serif;
+  }
+  
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+  }
+  
+  thead {
+    background-color: #333;
+    color: #fff;
+  }
+  
+  td, th {
+    border: 1px solid #ccc;
+    padding: 10px;
+    text-align: left;
+  }
+  
+  img {
+    max-height: 80px;
+    border-radius: 8px;
+  }
+  
+  button {
+    padding: 6px 12px;
+    background-color: crimson;
+    color: white;
+    border: none;
+    cursor: pointer;
+    border-radius: 4px;
+  }
+  
+  button:hover {
+    background-color: darkred;
+  }
+  
